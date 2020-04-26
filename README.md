@@ -26,6 +26,9 @@ In this project you should practice the pair programming roles: [Driver and Navi
 
 Looking for a little more?
 
+* Try to replicate the exact DOM and classes used in the demo
+    * This is possible by inspecting the DOM
+    * and carefully reading through the console.logs
 * Style it, the demo's pretty ugly.
 * Render all of the selected pokemon's evolutions
 * Make a cooler table of contents than just an `<input>` tag
